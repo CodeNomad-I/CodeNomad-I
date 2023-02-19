@@ -1,16 +1,15 @@
-### Hi there 👋
+### Joshua is the name, coding is the game :sunglasses:
 
-<!--
-**CodeNomad-I/CodeNomad-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my slice of the internet!
 
-Here are some ideas to get you started:
+### Technologies I'm currently learning
+* Data Science
+* Python
+* SQL and SQLite
+* Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I up to?
+* Taking names on chess.com right [here](https://www.chess.com/member/yourmumssidepiece "Let's dance")
+* Currently reading "Seven Pillars Of Wisdom" by Thomas Edward Lawrence
+* Still mourning the death of Metal Gear Solid
+* Slowly taking over the world with succulents
